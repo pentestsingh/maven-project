@@ -1,2 +1,0 @@
-# maven-project
-First Repository
